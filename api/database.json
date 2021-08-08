@@ -1,0 +1,51 @@
+{
+  "pros": [
+    {
+      "user": "Sydney",
+      "statement": "Companionship",
+      "id": 1
+    },
+    {
+      "user": "Blaise",
+      "statement": "Protection",
+      "id": 2
+    },
+    {
+      "user": "Blaise",
+      "statement": "Emotion Support",
+      "id": 3
+    },
+    {
+      "user": "Lynn",
+      "statement": "Pet Clout",
+      "id": 4
+    },
+    {
+      "user": "Sydney",
+      "statement": "Entertaining",
+      "id": 5
+    }
+  ],
+  "cons": [
+    {
+      "statement": "Throw-up",
+      "id": 1
+    },
+    {
+      "statement": "Potty Training",
+      "id": 2
+    },
+    {
+      "statement": "$$$",
+      "id": 3
+    },
+    {
+      "statement": "Need to get home",
+      "id": 4
+    },
+    {
+      "statement": "Too much hair",
+      "id": 5
+    }
+  ]
+}
